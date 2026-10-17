@@ -66,4 +66,4 @@ point them at the repo, set the output directory to `docs/`.
 - ATM/branch locations: DBS public branch-locator API (© DBS Bank; used here for
   research/commentary with attribution — not affiliated with or endorsed by DBS)
 - Geocoding: [OneMap](https://www.onemap.gov.sg/), Singapore Land Authority
-- Basemap: © OpenStreetMap contributors, © CARTO
+- Basemap: © OneMap, Singapore Land Authority

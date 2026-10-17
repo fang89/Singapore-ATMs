@@ -194,4 +194,4 @@ static host.
 - ATM/branch data: © DBS Bank Ltd, retrieved from DBS's public locator API for
   research and commentary, with attribution. This project is not affiliated
   with or endorsed by DBS, ABS, or any government agency.
-- Basemap tiles: © OpenStreetMap contributors, © CARTO.
+- Basemap tiles: © OneMap, Singapore Land Authority.
