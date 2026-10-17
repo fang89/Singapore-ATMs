@@ -9,9 +9,9 @@ within 500 m of every HDB block by end-2027. This map measures how far there is 
 
 <br>
 
-[![Open the live map](https://img.shields.io/badge/▶_Open_the_live_map-fang89.github.io%2Fatm--500m-1d4ed8?style=for-the-badge)](https://fang89.github.io/atm-500m/)
+[![Open the live map](https://img.shields.io/badge/▶_Open_the_live_map-fang89.github.io%2FSingapore--ATMs-1d4ed8?style=for-the-badge)](https://fang89.github.io/Singapore-ATMs/)
 
-**👉 [fang89.github.io/atm-500m/](https://fang89.github.io/atm-500m/)**
+**👉 [fang89.github.io/Singapore-ATMs/](https://fang89.github.io/Singapore-ATMs/)**
 
 <br>
 
@@ -23,7 +23,7 @@ within 500 m of every HDB block by end-2027. This map measures how far there is 
 
 <br>
 
-<a href="https://fang89.github.io/atm-500m/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/hero-dark.png"><img src="docs/screenshots/hero-light.png" alt="The ATM map: every HDB block more than 500 m from a DBS/POSB cash point shown in red" width="860"></picture></a>
+<a href="https://fang89.github.io/Singapore-ATMs/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/hero-dark.png"><img src="docs/screenshots/hero-light.png" alt="The ATM map: every HDB block more than 500 m from a DBS/POSB cash point shown in red" width="860"></picture></a>
 
 </div>
 
@@ -50,14 +50,14 @@ within 500 m of every HDB block by end-2027. This map measures how far there is 
 **Gaps** (above) hides every covered block and leaves only the ones at or past the limit.
 **Distance heat** colours all 13,436 blocks by how far they are from cash.
 
-<p align="center"><a href="https://fang89.github.io/atm-500m/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/heat-dark.png"><img src="docs/screenshots/heat-light.png" alt="Distance heat: every HDB block shaded from light (close to an ATM) to dark blue (far)" width="760"></picture></a></p>
+<p align="center"><a href="https://fang89.github.io/Singapore-ATMs/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/heat-dark.png"><img src="docs/screenshots/heat-light.png" alt="Distance heat: every HDB block shaded from light (close to an ATM) to dark blue (far)" width="760"></picture></a></p>
 
 Toggles let you count branches as coverage, add NETS cash-back merchants (7-Eleven,
 Giant, Cold Storage, Guardian…), draw 500 m circles round every ATM, or zoom to one area.
 
 ## 📈 Where the gaps are
 
-<p align="center"><a href="https://fang89.github.io/atm-500m/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/charts-dark.png"><img src="docs/screenshots/charts-light.png" alt="A histogram of block distances with the bins past 500 m in red, beside a bar chart of gap blocks by postal area" width="760"></picture></a></p>
+<p align="center"><a href="https://fang89.github.io/Singapore-ATMs/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/charts-dark.png"><img src="docs/screenshots/charts-light.png" alt="A histogram of block distances with the bins past 500 m in red, beside a bar chart of gap blocks by postal area" width="760"></picture></a></p>
 
 A table of the 50 worst-served blocks sits under the charts.
 
