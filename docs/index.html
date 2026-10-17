@@ -221,9 +221,9 @@ function blockStyle(b){
 }
 
 function initMap(){
-  map = L.map('map', {preferCanvas:true, minZoom:11}).setView([1.3521,103.8198], 12);
+  map = L.map('map', {preferCanvas:true, minZoom:12}).setView([1.3521,103.8198], 12);
   map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
-  tileLayer = L.tileLayer(TILES[curTheme()].url, {attribution:ATTR, minZoom:11, maxZoom:19}).addTo(map);
+  tileLayer = L.tileLayer(TILES[curTheme()].url, {attribution:ATTR, minZoom:12, maxZoom:19}).addTo(map);
   blockLayer = L.layerGroup().addTo(map);
   cashLayer = L.layerGroup();
   atmLayer = L.layerGroup().addTo(map);
